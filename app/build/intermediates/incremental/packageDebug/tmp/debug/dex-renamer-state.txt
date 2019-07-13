@@ -1,0 +1,4 @@
+#Wed Oct 10 14:54:17 IST 2018
+base.0=/home/roy/AndroidStudioProjects/SecureTracx/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
